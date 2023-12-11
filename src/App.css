@@ -1,0 +1,36 @@
+.container {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.progress-bars {
+  padding: 30px;
+  background-color: white;
+}
+
+body {
+  background-color: #f1f2f6;
+}
+
+.app-title-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  background-color: white;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+
+.app-title {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.app-sub-title {
+  font-size: 20px;
+}
